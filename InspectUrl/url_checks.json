@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://google.com",
+    "status": "Blocked"
+  },
+  {
+    "url": "https://www.google.com",
+    "status": "Accessible"
+  },
+  {
+    "url": "https://www.google.com",
+    "status": "Accessible",
+    "queryParams": {}
+  },
+  {
+    "url": "https://google.com",
+    "status": "Blocked",
+    "queryParams": {}
+  }
+]
